@@ -1,0 +1,16 @@
+{
+  "transactions": [
+    {
+      "name": "rubel",
+      "type": "income",
+      "amount": 1000,
+      "id": 1
+    },
+    {
+      "name": "sjf",
+      "type": "income",
+      "amount": 1000,
+      "id": 2
+    }
+  ]
+}
